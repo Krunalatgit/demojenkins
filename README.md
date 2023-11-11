@@ -1,1 +1,1 @@
-# demojenkins for demo-git-sec
+# demojenkins for demo-poll-scm
